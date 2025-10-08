@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Learning Management system<br><br>🌱 I’m currently learning React, TypeScript, RESTAPI, Node.js, MongoDB,Express.js<br><br>👨‍💻 All of my projects are available at https://sgrd-vrdn-web.vercel.app/<br><br>💬 Ask me about HTML, CSS and Javascript<br><br>📫 How to reach me evardonesiegrid.forwork@gmail.com<br><br>⚡ Fun fact ⚡ I debug faster with coffee ☕ than with a debugger 🐞
+🔭 I’m currently working on Learning Management system<br><br>🌱 I’m currently learning React, TypeScript, RESTAPI, Node.js, MongoDB,Express.js<br><br>👨‍💻 All of my projects are available at currently working on it!/<br><br>💬 Ask me about HTML, CSS and Javascript<br><br>📫 How to reach me evardonesiegrid.forwork@gmail.com<br><br>⚡ Fun fact ⚡ I debug faster with coffee ☕ than with a debugger 🐞
 
 
 ## 🌐 Socials:
