@@ -21,4 +21,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Madmax-xhyyy&icon=0&color=10)](https://visitcount.itsvg.in)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Madmax-xhyyy/Madmax-xhyyy/output/snake.svg" alt="Snake animation" />
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
