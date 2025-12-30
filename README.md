@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Madmax-xhyyy.Madmax-xhyyy" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=gradient&lines=Hi+There!+👋;+I'm+Siegrid!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=gradient&lines=Hi+There!+👋;+It's+mdmx!;" />
 </h1>
 
 <h3 align="center">A passionate full-stack web developer from Philippines.</h3>
