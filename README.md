@@ -9,7 +9,7 @@
   <a href="https://discord.gg/@madmaxtsu_18763" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0096FF?style=for-the-badge&logo=Discord&logoColor=white" target="_blank" />
   </a>
-  <a href="https://instagram.com/@always_xhyyy" target="_blank">
+  <a href="https://www.instagram.com/mdmx.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E81356?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
   </a>
   <a href="https://tiktok.com/@@always_xhyyy" target="_blank">
