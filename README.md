@@ -18,7 +18,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on my Personal Portfolio<br>👯 I’m looking to collaborate on an Exciting Project<br>🌱 I’m currently learning Nuxt.js, TypeScript, RESTAPI, Node.js, MongoDB,Express.js<br>💬 Ask me about HTML, CSS and Javascript<br>⚡ Fun fact I debug faster with coffee ☕ than with a debugger 🐞
+🔭 I’m currently learning React Native/ Mobile Development<br>👯 I’m looking to collaborate on an Exciting Project<br>🌱 I’m currently learning Nuxt.js, TypeScript, RESTAPI, Node.js, MongoDB,Express.js<br>💬 Ask me about HTML, CSS and Javascript<br>⚡ Fun fact I debug faster with coffee ☕ than with a debugger 🐞
 
 
 # 💻 Tech Stack:
